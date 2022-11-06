@@ -1,0 +1,1 @@
+This project will be testing html and css skills. My main goals are to get used to using flexbox to design my page aesthetically. Working with html and css from scratch is also going to be important to build the landing page from the ground up.
